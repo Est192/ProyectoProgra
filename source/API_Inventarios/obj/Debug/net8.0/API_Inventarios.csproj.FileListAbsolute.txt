@@ -1,0 +1,7 @@
+C:\Users\esqui\source\API_Inventarios\obj\Debug\net8.0\API_Inventarios.csproj.AssemblyReference.cache
+C:\Users\esqui\source\API_Inventarios\obj\Debug\net8.0\API_Inventarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esqui\source\API_Inventarios\obj\Debug\net8.0\API_Inventarios.AssemblyInfoInputs.cache
+C:\Users\esqui\source\API_Inventarios\obj\Debug\net8.0\API_Inventarios.AssemblyInfo.cs
+C:\Users\esqui\source\API_Inventarios\obj\Debug\net8.0\API_Inventarios.csproj.CoreCompileInputs.cache
+C:\Users\esqui\source\API_Inventarios\obj\Debug\net8.0\API_Inventarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\esqui\source\API_Inventarios\obj\Debug\net8.0\API_Inventarios.MvcApplicationPartsAssemblyInfo.cache
